@@ -17,4 +17,4 @@ spec:
     spec:
       containers:
       - name: lb
-        image: lerndevops/samplepyapp:v1
+        image: snalli9494/samplepyapp:v1
