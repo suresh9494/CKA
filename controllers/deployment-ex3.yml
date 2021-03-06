@@ -20,7 +20,7 @@ spec:
         app: kubeserve
     spec:
       containers:
-      - image: leaddevops/kubeserve:v1
+      - image: snalli9494/kubeserve:v1
         name: app
 
 ---
