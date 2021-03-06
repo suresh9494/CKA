@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: myapp-cont
-        image: lerndevops/samplepyapp:v1
+        image: snalli9494/samplepyapp:v1
         ports:
         - containerPort: 3000
